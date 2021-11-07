@@ -1,16 +1,32 @@
-### Hi there 👋
+#kirill302
+---
+####frontend developer
 
-<!--
-**kirill302/kirill302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* JS
+  * __TS__
+  * axios
+  * vue
+  * SSR
+* HTML5
+  * __SVG__
+  * semantics
+  * div  / span
+* CSS3
+  * __SASS/LESS__
+  * Flex box
+  * Grid layout
+  * Media queries
+  * TailWind / Bootstrap
 
-Here are some ideas to get you started:
+---
+#### And
+1. __GIT__
+2. MarkDown
+3. Basic nodeJS
+4. Understanding REST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### Contacts
+<a href="mailto:kirillzaytsev65@gmail.com">Email</a>
+<a href="https://t.me/Zaytsev_K_2">Telegramm</a>
